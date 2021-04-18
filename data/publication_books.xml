@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allbooks>
+
+    <book id="1">
+        <name>IET Book Series on Big Data</name>
+        <uri>#</uri>
+        <authors>Abdelmounaam Rezgui, Amir Mirzaeinia, Hamdy Soliman</authors>
+        <publisher>IET Book Series on Big Data</publisher>
+        <publication_details>Chapter 17 - SDN Helps Big Data Become Fault
+            Tolerant, In Big Data and Software Defined Networks, IET Book Series on Big Data,
+        </publication_details>
+        <year_of_publication>2017</year_of_publication>
+        <keyword_primary>Big Data</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </book>
+</allbooks>

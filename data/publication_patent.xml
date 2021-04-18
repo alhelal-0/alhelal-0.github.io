@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<allpublications>
+
+    <publication id= "1">
+        <name>Secure authentication and privacy of data communication links via dynamic key synchronization</name>
+        <uri>https://www.google.com/patents/US20110107086</uri>
+        <authors>Hamdy Soliman</authors>
+        <publisher>US Patent</publisher>
+        <publication_details>US 20110107086 A1</publication_details>
+        <type_of_publication>Patent</type_of_publication>
+        <year_of_publication>5 May, 2011</year_of_publication>
+        <keyword_primary>Dynamic Key </keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id= "2">
+        <name>Computer system security via dynamic encryption </name>
+        <uri>https://www.google.com/patents/US7860254</uri>
+        <authors>Hamdy Soliman</authors>
+        <publisher>US Patent</publisher>
+        <publication_details>US 7860254 B2</publication_details>
+        <type_of_publication>Patent</type_of_publication>
+        <year_of_publication>28 Dec, 2010</year_of_publication>
+        <keyword_primary>Dynamic encryption</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id= "3">
+        <name>Information security via dynamic encryption with hash function</name>
+        <uri>https://www.google.com/patents/US7457411</uri>
+        <authors>Hamdy Soliman</authors>
+        <publisher>US Patent</publisher>
+        <publication_details>US 7457411 B2</publication_details>
+        <type_of_publication>Patent</type_of_publication>
+        <year_of_publication>25 Nov, 2008</year_of_publication>
+        <keyword_primary>wireless Networks</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id= "4">
+        <name>Computer system security via dynamic encryption</name>
+        <uri>https://www.google.com/patents/US7376232</uri>
+        <authors>Hamdy Soliman</authors>
+        <publisher>US Patent</publisher>
+        <publication_details>US 7376232 B2</publication_details>
+        <type_of_publication>Patent</type_of_publication>
+        <year_of_publication>20 May, 2008</year_of_publication>
+        <keyword_primary>Dynamic Encryption</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    
+    <publication id= "5">
+        <name>Dynamic security authentication for wireless communication networks</name>
+        <uri>https://www.google.com/patents/US7233664</uri>
+        <authors>Hamdy Soliman</authors>
+        <publisher>US Patent</publisher>
+        <publication_details>US 7233664 B2</publication_details>
+        <type_of_publication>Patent</type_of_publication>
+        <year_of_publication>20 Jun, 2007</year_of_publication>
+        <keyword_primary>Wireless Networks</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id= "6">
+        <name>Neural network model for compressing/decompressing image/acoustic data files</name>
+        <uri>https://www.google.com/patents/US6608924</uri>
+        <authors>Hamdy Soliman</authors>
+        <publisher>US Patent</publisher>
+        <publication_details>US 6608924 B2</publication_details>
+        <type_of_publication>Patent</type_of_publication>
+        <year_of_publication>19 Aug, 2003</year_of_publication>
+        <keyword_primary>Neural network, Image Compression, Image Decompression</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+</allpublications>
+    

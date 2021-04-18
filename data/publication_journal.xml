@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<allpublications>
+
+<publication id = "0">
+        <name>CloudFinder: A System for Processing Big Data Workloads on Volunteered Federated Clouds</name>
+        <uri>https://ieeexplore.ieee.org/document/7926341</uri>
+        <authors>Abdelmounaam Rezgui, Nickolas Davis, Zaki Malik, Brahim Medjahed, Hamdy Soliman</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>IEEE Transactions on Big Data | Volume PP | Issue 99 | Pages 1 - 1</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication> 11 May, 2017</year_of_publication>
+        <keyword_primary>Cloud computing, Big Data, Computational modeling, Data models, Loading, Organizations, Big data , Cloud federations , Volunteer cloud computing , Workload placement</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id = "1">
+        <name>Modeling and simulation analysis of an efficient MASNET routeless routing protocol</name>
+        <uri>http://ieeexplore.ieee.org/abstract/document/6663752/</uri>
+        <authors>Mohammad Alotaibi, Hamdy Soliman</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>IEEE Communications Letters | Volume 17 | Issue 12 | Pages 2324-2327</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>13 Nov, 2013</year_of_publication>
+        <keyword_primary>Routing protocols, Routing, Analytical models, Ad hoc networks, Mobile computing, Mathematical model, Mobile communication</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id = "2">
+        <name>Exponential Brute-Force Complexity of A Permutation Based Stream Cipher</name>
+        <uri>http://www.mecs-press.org/ijcnis/ijcnis-v5-n1/IJCNIS-V5-N1-1.pdf</uri>
+        <authors>Mohammed Omari, Hamdy S Soliman</authors>
+        <publisher>Modern Education and Computer Science Press</publisher>
+        <publication_details>International Journal of Computer Network and Information Security | Volume 5 | Issue 1 | Pages 1</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 2013</year_of_publication>
+        <keyword_primary>Permutation Generation</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id="3">
+        <name>A multipath routeless routing protocol with an efficient location update mechanism</name>
+        <uri>http://www.inderscienceonline.com/doi/abs/10.1504/IJIPT.2011.040616</uri>
+        <authors>Mohammad Al-Otaibi, Hamdy Soliman, Jun Zheng</authors>
+        <publisher>Inderscience Publishers</publisher>
+        <publication_details>International Journal of Internet Protocol Technology | Volume 6 | Issue 1-2 | Pages 75-82</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 2011</year_of_publication>
+        <keyword_primary>Network performance, Standard beaconless routing, BLR, Multipath routing, Routeless routing, GPSR, Location update</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id="4">
+        <name>Enhancing AODV routing protocol over mobile ad hoc sensor networks</name>
+        <uri>http://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2011.040902</uri>
+        <authors>Hamdy Soliman, Mohammad Al-Otaibi</authors>
+        <publisher>Inderscience Publishers</publisher>
+        <publication_details>International Journal of Sensor Networks | Volume 10 | Issue 1-2 | Pages 36-41</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 2011</year_of_publication>
+        <keyword_primary>Routing protocols, Network performance, Self-repairing AODV, AODV-RSR, AODV-PSR, SRAODV, Mobile ad hoc sensor networks, MASNETs, Mobile networks, Ad hoc networks, Packet delay, Packet delivery ratio, Control message overhead</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id = "5">
+        <name>Routeless routing protocols over MASNETS: More energy saving approaches</name>
+        <uri>http://s3.amazonaws.com/academia.edu.documents/36046561/0203ijwmn13.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&amp;Expires=1485674335&amp;Signature=9Lk78lNe1h5G6W4AsJtQIiiXwr8%3D&amp;response-content-disposition=inline%3B%20filename%3DRouteless_Routing_Protocols_Over_MASNETs.pdf</uri>
+        <authors>Mohammad AlOtaibi, Hamdy Soliman</authors>
+        <publisher>International Journal of Wireless &amp; Mobile Networks</publisher>
+        <publication_details>International Journal of Wireless &amp; Mobile Networks (IJWMN) | Volume 2 | Issue 3 </publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>11 Aug, 2010</year_of_publication>
+        <keyword_primary>Energy Saving</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id="6">
+        <name>Efficient geographic routeless routing protocols with enhanced location update mechanism</name>
+        <uri>http://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2010.036191</uri>
+        <authors>Mohammad Al-Otaibi, Hamdy Soliman</authors>
+        <publisher>Inderscience Publishers</publisher>
+        <publication_details>International Journal of Sensor Networks | Volume 8 | Issue 3-4 | Pages 160-171</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 2010</year_of_publication>
+        <keyword_primary>LAR, location-aided routing, RAF, received signal strength-aided flooding, geo-flooding, controlled flooding, routeless routing, static channel width, dynamic channel width, mobile ad hoc sensor networks, MASNETs, mobile networks, ad hoc networks, simulation, energy consumption, packet delivery ratio, end-to-end delay</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+
+    <publication id = "7">
+        <name>Language and Retrieval Accuracy</name>
+        <uri>http://www.waset.org/publications/10908</uri>
+        <authors>Ahmed Abdelali, Jim Cowie, and Hamdy S. Soliman</authors>
+        <publisher>World Academy of Science</publisher>
+        <publication_details>World Academy of Science, Engineering and Technology, International Journal of Computer, Electrical, Automation, Control and Information Engineering | Volume 2 | Issue 1 | Pages 144-154</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>24 Jan, 2008</year_of_publication>
+        <keyword_primary>Ranking techniques</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id = "8">
+        <name>Improving query precision using semantic expansion</name>
+        <uri>http://www.sciencedirect.com/science/article/pii/S0306457306001932</uri>
+        <authors>Abdelali, J Cowie, HS Soliman</authors>
+        <publisher>Pergamon</publisher>
+        <publication_details>Information Processing &amp; Management | Volume 43 | Issue 3 | Pages 705-716</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>31 May, 2007</year_of_publication>
+        <keyword_primary>Query Expansion, Information Retrieval, Precision, Latent Semantic Analysis, Arabic</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id = "8+">
+        <name>Efficient Security Protocol for Wireless Sensor Networks</name>
+        <uri>http://ijns.femto.com.tw/</uri>
+        <authors>Hamdy S. Soliman, Mohammed Omari</authors>
+        <publisher>International Journal of Network Security</publisher>
+        <publication_details>International Journal of Network Security | Volume 5 | Issue 2 | Pages 171-182</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Sept, 2006</year_of_publication>
+        <keyword_primary>Security, Wireless Network</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id = "9">
+        <name>A neural networks approach to image data compression</name>
+        <uri>http://www.sciencedirect.com/science/article/pii/S1568494605000165</uri>
+        <authors>Hamdy S Soliman, Mohammed Omari</authors>
+        <publisher>Elsevier</publisher>
+        <publication_details>Applied Soft Computing | Volume 6 | Issue 3 | Pages 258-271</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>31 March, 2006</year_of_publication>
+        <keyword_primary>Image compression, Kohonen model, ART model, Direct classification, Self-organizing feature map, Geosynchronous satellite, Colored documents, Universal codebook</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id = "10">
+        <name>Building a modern standard Arabic corpus</name>
+        <uri>http://s3.amazonaws.com/academia.edu.documents/45106733/0fcfd51127ddd712bd000000.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&amp;Expires=1483782996&amp;Signature=G53wsmFRiIfh0SqBg7KilvKx28M%3D&amp;response-content-disposition=inline%3B%20filename%3DBuilding_A_Modern_Standard_Arabic_Corpus.pdf</uri>
+        <authors>Ahmed Abdelali, James Cowie, H Soliman</authors>
+        <publisher>#</publisher>
+        <publication_details>Proceedings of workshop on computational modeling of lexical acquisition. The split meeting. Croatia (25-28 July)</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>25 Jul, 2005</year_of_publication>
+        <keyword_primary>Arabic</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id="11">
+        <name>Language variation as a context for information retrieval</name>
+        <uri>https://www.researchgate.net/profile/Ahmed_Abdelali/publication/228771701_Language_variation_as_a_context_for_information_retrieval/links/0fcfd51127dddb5044000000.pdf</uri>
+        <authors>Ahmed Abdelali, Jim Cowie, Hamdy S Soliman</authors>
+        <publisher>#</publisher>
+        <publication_details>CIR-05 2005 Conference Proceedings | Volume 5 | Pages 1613-0073</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>5 July, 2005</year_of_publication>
+        <keyword_primary>Arabic, Corpus</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id="12">
+        <name>Arabic information retrieval perspectives</name>
+        <uri>http://s3.amazonaws.com/academia.edu.documents/30506024/taaa13.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&amp;Expires=1483820683&amp;Signature=K%2Fl3OobNWSi3U%2BLus3s1p%2BBw%2Bvc%3D&amp;response-content-disposition=inline%3B%20filename%3DArabic_information_retrieval_perspective.pdf</uri>
+        <authors>Ahmed Abdelali, Jim Cowie, Hamdy S Soliman</authors>
+        <publisher>#</publisher>
+        <publication_details>Proceedings of the 11th Conference on Natural Language Processing, Journes d'Etude sur la Parole-Traitement Automatique des Langues Naturelles (JEP-TALN)</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>Apr, 2004</year_of_publication>
+        <keyword_primary>Arabic, Information Retrieval</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+
+    <publication id="13">
+        <name>Image coding by a neural net classification process</name>
+        <uri>http://www.tandfonline.com/doi/abs/10.1080/088395197118334</uri>
+        <authors>Willie Chang, Hamdy S Soliman</authors>
+        <publisher>Taylor &amp; Francis Group</publisher>
+        <publication_details>Applied artificial intelligence | Volume 11 | Issue 1 | Pages 33-58</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 1997</year_of_publication>
+        <keyword_primary>Neural Network</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id="13">
+        <name>A neural synaptic compression codec for efficient image transmission</name>
+        <uri>http://link.springer.com/article/10.1007/BF00354870</uri>
+        <authors>Willie Chang, Hamdy S Soliman</authors>
+        <publisher>Kluwer Academic Publishers</publisher>
+        <publication_details>Wireless Personal Communications | Volume 3 | Issue 3 | Pages 199-214</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Sep, 1996</year_of_publication>
+        <keyword_primary>Image compression, Neural networks</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id="13+">
+        <name>Performance Analysis of HPGW-1, a Simplified Low-Cost Clustered Shared-Memory Multiprocessor</name>
+        <uri>http://www.theijst.com/</uri>
+        <authors>Hamdy S. Soliman, M. Khalil, Y. Salam</authors>
+        <publisher>International Journal of Science &amp; Technology</publisher>
+        <publication_details>International Journal of Science &amp; Technology | Volume 8 | Issue 2 </publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1995</year_of_publication>
+        <keyword_primary>Shared Memory, Mulriprocessor</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+
+    <publication id="14">
+        <name>A fuzzy ART network with fuzzy control for image data compression</name>
+        <uri>http://dimes.lins.fju.edu.tw/pub/iasted-icmscpi-94c/iasted-icmscpi94c.htm</uri>
+        <authors>CJ Wu, AH Sung, HS Soliman</authors>
+        <publisher>#</publisher>
+        <publication_details>Proc. IASTED Internat. Conf. on Modeling, Simulation and Control in the Process Industry | Pages 95-98</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 1994</year_of_publication>
+        <keyword_primary>Image compression, Fuzzy Control</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <publication id="15">
+        <name>Investigation of inherent concurrency in data/control driven multiprocessing systems</name>
+        <uri>http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=4769326</uri>
+        <authors>HS Soliman, V Ivanov</authors>
+        <publisher>#</publisher>
+        <publication_details>International journal of mini &amp; microcomputers | Volume 15 | Issue 1 | Pages 31-39</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 1993</year_of_publication>
+        <keyword_primary>Multiprocessing Systems</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+
+    <!--<publication id="16">
+        <name>Image Data Compression Using ART Networks</name>
+        <uri>https://scholar.google.com/scholar?cluster=3791837519951011462&amp;hl=en&amp;oi=scholarr</uri>
+        <authors>CJ Wu, AH Sung, HS Soliman</authors>
+        <publisher>#</publisher>
+        <publication_details>Proc. Artificial Neural Networks In Engineering | Pages 417-422</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 1993</year_of_publication>
+        <keyword_primary>Data Compression, ART</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+-->
+</allpublications>

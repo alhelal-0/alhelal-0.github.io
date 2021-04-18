@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Publication by Dr. Hamdy Soliman">
+    <meta name="author" content="ratulalahy">
+
+    <title>Publication by Dr. Hamdy Soliman</title>
+    <link rel="shortcut icon" href="doc_images/_head.png">
+
+    <!-- Bootstrap Core CSS -->
+    <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <script type="text/javascript" src="js/readPublications.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body onload="loadAllData()">
+<!-- Navigation -->
+<nav class="navbar navbar-custome navbar-default navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html"><span
+                    class="glyphicon glyphicon_extra_padding glyphicon-home"></span>Dr. Hamdy
+                <strong>Soliman</strong></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+            <ul class="nav navbar-nav">
+                <li>
+                   <a href="publications.html"><span class="glyphicon glyphicon_extra_padding glyphicon-pencil "></span>Publication</a>
+                </li>
+                <li>
+                    <a href="research.html"><span class="glyphicon glyphicon_extra_padding glyphicon-grain"></span>Research</a>
+                </li>
+                <li>
+                    <a href="courses.html"><span class="glyphicon glyphicon_extra_padding glyphicon-blackboard"></span>Courses</a>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="contact.html"><span class="glyphicon glyphicon_extra_padding glyphicon-envelope"></span>Contact</a>
+                </li>
+                <!--<li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li> -->
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Page Content -->
+<div class="container ">
+    <div class="row">
+        <div class="col-md-1 left_container">
+        </div>
+        <div class="col-md-10 center_container">
+            <!-- Portfolio Item Heading -->
+            <div class="row fade-in one">
+                <div class="col-lg-12">
+                    <h1 class="page-header text-right">Publications
+                        <!--<small>Interest</small> -->
+                    </h1>
+                </div>
+            </div>
+            <!-- /.row -->
+            <section>
+                <article class="well_with_transparent_bg well-lg fade-in two" style="text-align: justify"><b>Dr. Hamdy's work focuses
+                    on the </b><span
+                            class="topic_name">Computer Networks</span>, <span class="topic_name">Wireless Sensor Network (WSNs) Applications </span>and
+                    <span class="topic_name">Neural Network Applications</span>. <br><u>His experimental work spans over the following areas of applications:</u> <span
+                            class="topic_name"><i>Smart</i> Mobile/stationary WSNs for Asyncronous Even Detection, e.g., Forest-Fire, Border Intrusion, Tsunami, Volcanic Activities, etc.</span>, <span class="topic_name">Wireless Networks Security Protocols</span>,
+                    <span class="topic_name">All-Fiber-Optics Networks(AFOP) Admission Control,</span><span class="topic_name"> Smart Big-Data/Cloud-Computing Management</span>.
+                </article>
+
+            </section>
+            <div class="row fade-in three">
+                <h3>
+                    <div class="well-sm well_with_transparent_bg text-primary"><span
+                            class="glyphicon glyphicon_extra_padding glyphicon-book"></span><span>Selected Publications</span><span
+                            style="float: right;"> <a
+                            target="_blank"
+                            href="https://scholar.google.com/citations?user=AJvh91MAAAAJ">Google Scholar</a></span>
+                    </div>
+                </h3>
+            </div>
+
+            <section class="fade-in four"> <!--  <section role="all publications"> -->
+
+                <table class="table table-hover">
+                    <thead>
+                    <tr>
+                        <th>
+                            <h3>
+                                <div class="well_with_transparent_bg text-primary"><span
+                                        class="glyphicon glyphicon_extra_padding glyphicon-hourglass"></span>Patents
+                                </div>
+                            </h3>
+                        </th>
+                    </tr>
+                    </thead>
+                    <tbody id="patent_table">
+
+                    </tbody>
+
+
+                </table>
+            </section>
+            <section class="fade-in four">
+                <table class="table table-hover" style="table-layout:fixed; width: 100%;">
+                    <thead>
+                    <tr>
+                        <th>
+                            <h3>
+                                <div class="well_with_transparent_bg text-primary"><span
+                                        class="glyphicon glyphicon_extra_padding glyphicon-open-file"></span>Journals
+                                </div>
+                            </h3>
+                        </th>
+                    </tr>
+                    </thead>
+
+                    <tbody id="journal_table">
+                    </tbody>
+                </table>
+            </section>
+            <section class="fade-in four">
+                <table class="table table-hover" style="table-layout:fixed; width: 100%;">
+                    <thead>
+                    <tr>
+                        <th>
+                            <h3>
+                                <div class="well_with_transparent_bg text-primary"><span
+                                        class="glyphicon glyphicon_extra_padding glyphicon-plane"></span>Conferences
+                                </div>
+                            </h3>
+                        </th>
+                    </tr>
+                    </thead>
+
+                    <tbody id="conference_table">
+                    </tbody>
+                </table>
+            </section>
+
+            <section class="fade-in four">
+                <table class="table table-hover" style="table-layout:fixed; width: 100%;">
+                    <thead>
+                    <tr>
+                        <th>
+                            <h3>
+                                <div class="well_with_transparent_bg text-primary"><span
+                                        class="glyphicon glyphicon_extra_padding glyphicon-print"></span>Books
+                                </div>
+                            </h3>
+                        </th>
+                    </tr>
+                    </thead>
+
+                    <tbody id="book_table">
+                    </tbody>
+                </table>
+            </section>
+
+            <a id="back-to-top" href="#" class="btn btn-default btn-sm back-to-top" role="button"><span
+                    class="glyphicon glyphicon-chevron-up"></span></a>
+
+        </div>
+        <div class="col-md-1 right_container">
+        </div>
+    </div>
+
+    <div class="navbar navbar-in fade-in five">
+        <div class="container-fluid">
+            <hr>
+            <!-- Footer -->
+            <footer>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="col-sm-4"><p class="footer_content"><a target="_blank"
+                                                                           href="https://www.cs.nmt.edu/">Dept. of CSE,
+                            NMT</a></p></div>
+                        <div class="col-sm-4"><p class="footer_content"><a target="_blank" href="http://www.nmt.edu/">
+                            <img border="0" alt="New Mexico Tech" src="doc_images/nmt_logo.png" width="100">
+                        </a></p></div>
+                        <div class="col-sm-4"><p class="footer_content">Copyright &copy; Hamdy Soliman, 2017</p></div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Include for auto hide javascript -->
+<script src="js/jquery.bootstrap-autohidingnavbar.js"></script>
+
+<!-- Include Back to top javascript -->
+<script src="js/hover_to_top.js"></script>
+
+<script>
+    $("nav.navbar-fixed-top").autoHidingNavbar();
+</script>
+</body>
+
+</html>
